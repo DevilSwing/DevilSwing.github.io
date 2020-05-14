@@ -17,3 +17,15 @@ p{
 	font-weight: 900;
 	margin-left: 20px;
 }
+
+@media  screen and (max-width: 480px) {
+	iframe{
+		width: 180px;
+		margin-left: 5px;
+		height: 200px;
+	}
+	p{
+		margin-top: 15px;
+		font-size: 21px;
+	}
+}
