@@ -9,7 +9,6 @@ body, h1, h2 {
 	box-sizing: border-box;
 }
 body {
-	/*background-image: url(../images/backgra.jpg);*/
 	color: black;
 	background-repeat: no-repeat;
 	background-size: cover;
